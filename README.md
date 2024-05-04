@@ -18,7 +18,7 @@ And many more!!
 
 # ⏳ Dataset
 Download the dataset for this project from following Link -
-* [Swiggy Data Analysis Dataset]https://github.com/mujahid777/Project-Swiggy-Data-Analysis/blob/main/Swiggy%20Bangalore%20Outlet%20Details.csv
+* [Swiggy Data Analysis Dataset].https://github.com/mujahid777/Project-Swiggy-Data-Analysis/blob/main/Swiggy%20Bangalore%20Outlet%20Details.csv
 
 # 📚 Data Analysis
 In the datasets we are provided with following columns (Features) of data.
